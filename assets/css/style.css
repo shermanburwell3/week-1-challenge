@@ -84,24 +84,26 @@ content {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+#benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-cost {
+#benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+#benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -116,7 +118,7 @@ content {
     text-align: center;
 }
 
-.benefit-lead img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
