@@ -14,3 +14,5 @@ https://shermanburwell3.github.io/week-1-challenge/
 
 ## [Credits]
 
+w3.org for reference for how to do sequential heading elements:
+https://www.w3.org/MarkUp/html3/headings.html#:~:text=A%20sequence%20number%20is%20associated,number%2C%20e.g.%20SEQNUM%3D10.
